@@ -33,4 +33,4 @@ Este conversor permite que você insira um número em uma base inicial (de 2 a 3
 ## Contato
 
 Desenvolvido por Gui Estevam.  
-Email: guiestara34@gmail.com
+Email: guiestara01@gmail.com
