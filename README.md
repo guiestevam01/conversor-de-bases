@@ -34,8 +34,3 @@ Este conversor permite que você insira um número em uma base inicial (de 2 a 3
 
 Desenvolvido por Gui Estevam.  
 Email: guiestara34@gmail.com
-
----
-
-Se quiser, posso te ajudar a adicionar badges de licença, build ou outras informações no README. Quer?  
-
